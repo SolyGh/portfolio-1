@@ -1,0 +1,43 @@
+.testimonials17 {
+  background-image: var(--third-gradient17);
+}
+
+.testimonials__container17 {
+  text-align: center;
+}
+.testimonial__header17 {
+  position: relative;
+  color: var(--title-color17);
+}
+.testimonial__img17 {
+  height: 180px;
+  width: 100%;
+  border-radius: 18px;
+  object-fit: cover;
+  margin-bottom: 30px;
+}
+
+.testimonial__icon17 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 66px;
+  height: 66px;
+  background: var(--container-color17);
+  border-bottom-right-radius: 18px;
+  vertical-align: middle;
+}
+.testimonial__description17 {
+  min-height: 110px;
+}
+
+.testimonial__name17 {
+  font-size: var(--largest-font-size17);
+  margin-top: 30px;
+}
+.testimonial__description17 {
+  color: var(--title-color17);
+}
+.testimonial__author17 {
+  color: var(--title-color17);
+}
