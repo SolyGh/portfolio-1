@@ -15,10 +15,10 @@ const Home = () => {
           </p>
           <h1 className="home__title17 text-cs17">
             {" "}
-            <span>Lilloz</span> Nath
+            <span>natalia</span> Nath
           </h1>
           <p className="home__job17">
-            <span className="text-cs17"> I Am </span> <b>Urban Engineer</b>
+            <span className="text-cs17"> I Am </span> <b>Frontend developer</b>
           </p>
 
           <div className="home__img-wrapper17">
