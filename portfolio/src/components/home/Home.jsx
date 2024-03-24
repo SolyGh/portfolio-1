@@ -15,7 +15,7 @@ const Home = () => {
           </p>
           <h1 className="home__title17 text-cs17">
             {" "}
-            <span>natalia</span> Nath
+            <span>Lely</span>MOr
           </h1>
           <p className="home__job17">
             <span className="text-cs17"> I Am </span> <b>Frontend developer</b>
